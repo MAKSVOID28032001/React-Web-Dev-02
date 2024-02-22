@@ -1,0 +1,9 @@
+.BOX{
+    background: rgb(251, 251, 184);
+    border-radius: 10px;
+    height: 500px;
+    width: 500px auto;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+}
